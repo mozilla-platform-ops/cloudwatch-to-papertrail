@@ -4,7 +4,7 @@
   "description": "Lambda to send cloudwatch logs to papertrail",
   "main": "index.js",
   "dependencies": {
-    "winston": "",
+    "winston": "2.x",
     "winston-papertrail": "hyrwork/winston-papertrail",
     "dogapi": ""
   },
